@@ -1,0 +1,23 @@
+.statistics {
+  max-width: 90%;
+  margin: 0 auto 50px;
+  padding-top: 50px;
+  box-shadow: 10px 10px 8px 2px rgba(0, 0, 0, 0.3);
+  background-color: #ffffff;
+}
+
+.title {
+  margin-top: 0;
+  font-weight: 600;
+  text-align: center;
+  font-size: 36px;
+  color: rgb(0, 0, 0);
+}
+
+.statList {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
